@@ -1,14 +1,14 @@
 {
-  "name": "katzeassets",
-  "version": "1.0.2",
-  "description": "Assets",
+  "name": "assetsrepo",
+  "version": "1.0.0",
+  "description": "img",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katze826/Assets.git"
+    "url": "git+https://github.com/katze826/AssetsRepo.git"
   },
   "keywords": [
     "img"
@@ -16,7 +16,7 @@
   "author": "turingkatze",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/katze826/Assets/issues"
+    "url": "https://github.com/katze826/AssetsRepo/issues"
   },
-  "homepage": "https://github.com/katze826/Assets#readme"
+  "homepage": "https://github.com/katze826/AssetsRepo#readme"
 }
